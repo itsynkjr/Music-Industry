@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: cyan;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 50px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
